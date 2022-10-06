@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+p.alert.alert-info.d-flex.justify-content-between {
+    margin-bottom: 0px;
+}
